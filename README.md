@@ -1,8 +1,8 @@
 ## Sobre
 
 - 👋 Ola meu nome é Gustavo Albônico Gonçalves
-- 🌱 atualmente estou cursando analise e desenvolvimento de sistemas no Senac e estou na 5º fase
-- 👀 Pretendo me tornar desenvolvedor fullstack.
+- 🌱 Atualmente estou crusando especialização em desenvolvimento web mobile e fazendo outros cursos.
+- 👀 Desenvolvedor fullstack.
 - 💞️ Eu gosto de jogar em meu tempo livre principalmente jogos mais "elaborados".
 
 ## Social
