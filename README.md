@@ -1,7 +1,7 @@
 ## Sobre
 
 - 👋 Ola meu nome é Gustavo Albônico Gonçalves
-- 🌱 Atualmente estou crusando especialização em desenvolvimento web mobile e fazendo outros cursos.
+- 🌱 Atualmente estou cursando especialização em desenvolvimento web mobile e fazendo outros cursos.
 - 👀 Desenvolvedor fullstack.
 - 💞️ Eu gosto de jogar em meu tempo livre principalmente jogos mais "elaborados".
 
